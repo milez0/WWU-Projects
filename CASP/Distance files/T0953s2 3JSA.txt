@@ -1,0 +1,126 @@
+
+server01_TS1:
+
+Distance between 167-171: 4.71157646179
+Distance between 171-192: 21.7274627686
+Distance between 192-197: 5.9505777359
+
+server02_TS1:
+
+Distance between 167-171: 10.8643693924
+Distance between 171-192: 13.751871109
+Distance between 192-197: 8.90782356262
+
+server03_TS1:
+
+Distance between 167-171: 9.53454494476
+Distance between 171-192: 25.146730423
+Distance between 192-197: 9.13668727875
+
+server04_TS1:
+
+Distance between 167-171: 9.87505340576
+Distance between 171-192: 16.3376750946
+Distance between 192-197: 9.65182781219
+
+server05_TS1:
+
+Distance between 167-171: 13.8204565048
+Distance between 171-192: 15.3708133698
+Distance between 192-197: 11.5319347382
+
+server06_TS1:
+
+Distance between 167-171: 12.0196886063
+Distance between 171-192: 13.5732421875
+Distance between 192-197: 12.2462720871
+
+server07_TS1:
+
+Distance between 167-171: 10.8496265411
+Distance between 171-192: 25.8268356323
+Distance between 192-197: 11.0378093719
+
+server08_TS1:
+
+Distance between 167-171: 14.0744066238
+Distance between 171-192: 18.6942615509
+Distance between 192-197: 13.7560062408
+
+server09_TS1:
+
+Distance between 167-171: 10.6051244736
+Distance between 171-192: 36.8938674927
+Distance between 192-197: 12.7935314178
+
+server10_TS1:
+
+Distance between 167-171: 8.01905918121
+Distance between 171-192: 11.5361604691
+Distance between 192-197: 7.85394048691
+
+server11_TS1:
+
+Distance between 167-171: 13.7903966904
+Distance between 171-192: 56.7486495972
+Distance between 192-197: 14.232875824
+
+server12_TS1:
+
+Distance between 167-171: 7.62524938583
+Distance between 171-192: 15.4206838608
+Distance between 192-197: 14.0552740097
+
+server13_TS1:
+
+Distance between 167-171: 12.0089216232
+Distance between 171-192: 42.0377159119
+Distance between 192-197: 13.2504453659
+
+server14_TS1:
+
+Distance between 167-171: 6.00241565704
+Distance between 171-192: 15.177901268
+Distance between 192-197: 13.6983757019
+
+server15_TS1:
+
+Distance between 167-171: 11.1436166763
+Distance between 171-192: 12.7211475372
+Distance between 192-197: 9.96799755096
+
+server16_TS1:
+
+Distance between 167-171: 9.27345180511
+Distance between 171-192: 10.3310632706
+Distance between 192-197: 13.5433588028
+
+server17_TS1:
+
+Distance between 167-171: 10.3116779327
+Distance between 171-192: 15.8502616882
+Distance between 192-197: 14.1585655212
+
+server18_TS1:
+
+Distance between 167-171: 5.86145401001
+Distance between 171-192: 10.1291227341
+Distance between 192-197: 8.81660842896
+
+server19_TS1:
+
+Distance between 167-171: 9.34980010986
+Distance between 171-192: 19.4035701752
+Distance between 192-197: 14.7345151901
+
+server20_TS1:
+
+Distance between 167-171: 11.5082464218
+Distance between 171-192: 26.056268692
+Distance between 192-197: 10.8217325211
+
+3JSA:
+
+Distance between 259-263: 9.49398612976
+Distance between 263-284: 34.320930481
+Distance between 284-289: 9.66666603088

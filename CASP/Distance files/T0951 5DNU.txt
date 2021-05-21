@@ -1,0 +1,105 @@
+
+server01_TS1:
+
+Distance between 39-119: 30.0166664124
+Distance between 119-156: 39.9396400452
+
+server02_TS1:
+
+Distance between 39-119: 31.2760925293
+Distance between 119-156: 35.6877746582
+
+server03_TS1:
+
+Distance between 39-119: 30.6245174408
+Distance between 119-156: 30.4497070312
+
+server04_TS1:
+
+Distance between 39-119: 25.1885204315
+Distance between 119-156: 38.9964599609
+
+server05_TS1:
+
+Distance between 39-119: 31.3020935059
+Distance between 119-156: 38.4138946533
+
+server06_TS1:
+
+Distance between 39-119: 22.3544845581
+Distance between 119-156: 11.3715143204
+
+server07_TS1:
+
+Distance between 39-119: 16.6807155609
+Distance between 119-156: 18.4441223145
+
+server08_TS1:
+
+Distance between 39-119: 15.987818718
+Distance between 119-156: 23.2571563721
+
+server09_TS1:
+
+Distance between 39-119: 17.8602790833
+Distance between 119-156: 19.7453536987
+
+server10_TS1:
+
+Distance between 39-119: 22.8650627136
+Distance between 119-156: 39.3329544067
+
+server11_TS1:
+
+Distance between 39-119: 21.9301986694
+Distance between 119-156: 22.3409976959
+
+server12_TS1:
+
+Distance between 39-119: 20.9399852753
+Distance between 119-156: 55.9851989746
+
+server13_TS1:
+
+Distance between 39-119: 20.9540157318
+Distance between 119-156: 39.3716163635
+
+server14_TS1:
+
+Distance between 39-119: 21.0785694122
+Distance between 119-156: 37.5340957642
+
+server15_TS1:
+
+Distance between 39-119: 20.6516513824
+Distance between 119-156: 33.4645843506
+
+server16_TS1:
+
+Distance between 39-119: 27.8679580688
+Distance between 119-156: 20.495721817
+
+server17_TS1:
+
+Distance between 39-119: 33.2520332336
+Distance between 119-156: 27.9270210266
+
+server18_TS1:
+
+Distance between 39-119: 17.3205890656
+Distance between 119-156: 31.6195468903
+
+server19_TS1:
+
+Distance between 39-119: 24.6731643677
+Distance between 119-156: 26.1896820068
+
+server20_TS1:
+
+Distance between 39-119: 20.4647293091
+Distance between 119-156: 31.7466068268
+
+5DNU:
+
+Distance between 39-119: 20.1601009369
+Distance between 119-156: 20.12266922

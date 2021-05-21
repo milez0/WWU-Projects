@@ -1,0 +1,84 @@
+
+server01_TS1:
+
+Distance between 114-152: 29.9171295166
+
+server02_TS1:
+
+Distance between 114-152: 15.4013547897
+
+server03_TS1:
+
+Distance between 114-152: 22.3813076019
+
+server04_TS1:
+
+Distance between 114-152: 7.52922534943
+
+server05_TS1:
+
+Distance between 114-152: 20.1151409149
+
+server06_TS1:
+
+Distance between 114-152: 14.0906410217
+
+server07_TS1:
+
+Distance between 114-152: 53.8907661438
+
+server08_TS1:
+
+Distance between 114-152: 6.51863288879
+
+server09_TS1:
+
+Distance between 114-152: 49.903553009
+
+server10_TS1:
+
+Distance between 114-152: 11.4788732529
+
+server11_TS1:
+
+Distance between 114-152: 115.477149963
+
+server12_TS1:
+
+Distance between 114-152: 22.0969200134
+
+server13_TS1:
+
+Distance between 114-152: 68.991394043
+
+server14_TS1:
+
+Distance between 114-152: 11.6333465576
+
+server15_TS1:
+
+Distance between 114-152: 4.18659543991
+
+server16_TS1:
+
+Distance between 114-152: 26.3691883087
+
+server17_TS1:
+
+Distance between 114-152: 28.2541656494
+
+server18_TS1:
+
+Distance between 114-152: 31.6389217377
+
+server19_TS1:
+
+Distance between 114-152: 12.6336050034
+
+server20_TS1:
+
+Distance between 114-152: 77.606010437
+
+3EEH:
+
+Distance between 46-81: 30.2911529541

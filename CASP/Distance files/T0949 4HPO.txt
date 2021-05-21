@@ -1,0 +1,126 @@
+
+server01_TS1:
+
+Distance between 81-82: 3.85822224617
+Distance between 82-119: 27.6108531952
+Distance between 119-152: 23.3880462646
+
+server02_TS1:
+
+Distance between 81-82: 3.83058452606
+Distance between 82-119: 19.7504177094
+Distance between 119-152: 22.2312545776
+
+server03_TS1:
+
+Distance between 81-82: 3.89861106873
+Distance between 82-119: 23.2968826294
+Distance between 119-152: 22.9815196991
+
+server04_TS1:
+
+Distance between 81-82: 3.83163452148
+Distance between 82-119: 24.9936752319
+Distance between 119-152: 22.4006996155
+
+server05_TS1:
+
+Distance between 81-82: 3.85844635963
+Distance between 82-119: 33.1549377441
+Distance between 119-152: 25.2510547638
+
+server06_TS1:
+
+Distance between 81-82: 3.75586080551
+Distance between 82-119: 21.3730354309
+Distance between 119-152: 9.91390800476
+
+server07_TS1:
+
+Distance between 81-82: 3.73267006874
+Distance between 82-119: 30.8057174683
+Distance between 119-152: 19.3794212341
+
+server08_TS1:
+
+Distance between 81-82: 3.77020359039
+Distance between 82-119: 28.5890636444
+Distance between 119-152: 23.0372428894
+
+server09_TS1:
+
+Distance between 81-82: 3.72960543633
+Distance between 82-119: 34.2984352112
+Distance between 119-152: 24.2968063354
+
+server10_TS1:
+
+Distance between 81-82: 3.74601006508
+Distance between 82-119: 23.5114402771
+Distance between 119-152: 19.4236030579
+
+server11_TS1:
+
+Distance between 81-82: 3.93411517143
+Distance between 82-119: 20.3063640594
+Distance between 119-152: 17.5258274078
+
+server12_TS1:
+
+Distance between 81-82: 3.96936368942
+Distance between 82-119: 57.5536689758
+Distance between 119-152: 65.5673370361
+
+server13_TS1:
+
+Distance between 81-82: 3.28756093979
+Distance between 82-119: 27.2228908539
+Distance between 119-152: 43.6229095459
+
+server14_TS1:
+
+Distance between 81-82: 3.30987644196
+Distance between 82-119: 13.6296892166
+Distance between 119-152: 33.074798584
+
+server15_TS1:
+
+Distance between 81-82: 3.79766082764
+Distance between 82-119: 24.4224796295
+Distance between 119-152: 19.9152984619
+
+server16_TS1:
+
+Distance between 81-82: 3.84431815147
+Distance between 82-119: 24.1300868988
+Distance between 119-152: 17.9485702515
+
+server17_TS1:
+
+Distance between 81-82: 3.92051148415
+Distance between 82-119: 68.1357498169
+Distance between 119-152: 71.21459198
+
+server18_TS1:
+
+Distance between 81-82: 3.32426142693
+Distance between 82-119: 72.67918396
+Distance between 119-152: 63.3623657227
+
+server19_TS1:
+
+Distance between 81-82: 3.25715708733
+Distance between 82-119: 34.9034080505
+Distance between 119-152: 16.4280490875
+
+server20_TS1:
+
+Distance between 81-82: 3.90267896652
+Distance between 82-119: 22.9290924072
+Distance between 119-152: 25.1937351227
+
+4HPO:
+
+Distance between 123-124: 6.58455324173
+Distance between 124-158: 20.4040641785
+Distance between 158-186: 25.8735923767

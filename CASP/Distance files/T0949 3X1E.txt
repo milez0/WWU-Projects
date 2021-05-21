@@ -1,0 +1,147 @@
+
+server01_TS1:
+
+Distance between 101-119: 26.2571926117
+Distance between 119-128: 13.5348453522
+Distance between 128-152: 13.2529239655
+Distance between 152-179: 26.6132640839
+
+server02_TS1:
+
+Distance between 101-119: 16.3277950287
+Distance between 119-128: 11.6924180984
+Distance between 128-152: 13.5306081772
+Distance between 152-179: 10.3574895859
+
+server03_TS1:
+
+Distance between 101-119: 10.28428936
+Distance between 119-128: 14.6270399094
+Distance between 128-152: 14.6635494232
+Distance between 152-179: 18.8514289856
+
+server04_TS1:
+
+Distance between 101-119: 23.2164402008
+Distance between 119-128: 10.2426700592
+Distance between 128-152: 15.444480896
+Distance between 152-179: 10.6935958862
+
+server05_TS1:
+
+Distance between 101-119: 32.6246833801
+Distance between 119-128: 12.6946392059
+Distance between 128-152: 13.4596862793
+Distance between 152-179: 5.66869544983
+
+server06_TS1:
+
+Distance between 101-119: 27.5871486664
+Distance between 119-128: 14.2883806229
+Distance between 128-152: 14.0519075394
+Distance between 152-179: 46.0103874207
+
+server07_TS1:
+
+Distance between 101-119: 34.9526824951
+Distance between 119-128: 18.5003147125
+Distance between 128-152: 15.9896974564
+Distance between 152-179: 11.9853162766
+
+server08_TS1:
+
+Distance between 101-119: 25.8698005676
+Distance between 119-128: 7.48957490921
+Distance between 128-152: 28.6105327606
+Distance between 152-179: 21.4440135956
+
+server09_TS1:
+
+Distance between 101-119: 37.0165672302
+Distance between 119-128: 16.3208599091
+Distance between 128-152: 10.2428712845
+Distance between 152-179: 21.6983718872
+
+server10_TS1:
+
+Distance between 101-119: 14.955663681
+Distance between 119-128: 8.5327539444
+Distance between 128-152: 26.0457458496
+Distance between 152-179: 7.0719833374
+
+server11_TS1:
+
+Distance between 101-119: 21.9143352509
+Distance between 119-128: 4.6821231842
+Distance between 128-152: 16.6372261047
+Distance between 152-179: 5.24738073349
+
+server12_TS1:
+
+Distance between 101-119: 29.2784519196
+Distance between 119-128: 17.7844085693
+Distance between 128-152: 47.7992210388
+Distance between 152-179: 6.62400197983
+
+server13_TS1:
+
+Distance between 101-119: 17.1647987366
+Distance between 119-128: 11.9983587265
+Distance between 128-152: 37.4389381409
+Distance between 152-179: 7.58347082138
+
+server14_TS1:
+
+Distance between 101-119: 15.954826355
+Distance between 119-128: 8.11619186401
+Distance between 128-152: 25.815788269
+Distance between 152-179: 9.3612537384
+
+server15_TS1:
+
+Distance between 101-119: 20.4200286865
+Distance between 119-128: 12.1019449234
+Distance between 128-152: 17.1296005249
+Distance between 152-179: 6.06811618805
+
+server16_TS1:
+
+Distance between 101-119: 18.2002983093
+Distance between 119-128: 12.2497024536
+Distance between 128-152: 19.2522773743
+Distance between 152-179: 6.31011199951
+
+server17_TS1:
+
+Distance between 101-119: 28.5634727478
+Distance between 119-128: 17.7968597412
+Distance between 128-152: 58.5175132751
+Distance between 152-179: 53.4106674194
+
+server18_TS1:
+
+Distance between 101-119: 36.8260383606
+Distance between 119-128: 13.443362236
+Distance between 128-152: 50.5783119202
+Distance between 152-179: 57.3523368835
+
+server19_TS1:
+
+Distance between 101-119: 18.6719818115
+Distance between 119-128: 14.170340538
+Distance between 128-152: 15.3739070892
+Distance between 152-179: 7.22164821625
+
+server20_TS1:
+
+Distance between 101-119: 23.4773597717
+Distance between 119-128: 16.6570034027
+Distance between 128-152: 17.0796318054
+Distance between 152-179: 5.64383411407
+
+3X1E:
+
+Distance between 123-144: 21.575799942
+Distance between 144-153: 18.8623542786
+Distance between 153-157: 12.3864154816
+Distance between 157-185: 42.1787147522

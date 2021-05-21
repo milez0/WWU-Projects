@@ -1,0 +1,105 @@
+
+server01_TS1:
+
+Distance between 4-21: 8.6878156662
+Distance between 21-54: 27.3266239166
+
+server02_TS1:
+
+Distance between 4-21: 3.92357802391
+Distance between 21-54: 23.894411087
+
+server03_TS1:
+
+Distance between 4-21: 26.8685359955
+Distance between 21-54: 10.7484531403
+
+server04_TS1:
+
+Distance between 4-21: 30.3060092926
+Distance between 21-54: 39.5557060242
+
+server05_TS1:
+
+Distance between 4-21: 5.23816251755
+Distance between 21-54: 21.2766551971
+
+server06_TS1:
+
+Distance between 4-21: 11.1862535477
+Distance between 21-54: 20.2554702759
+
+server07_TS1:
+
+Distance between 4-21: 13.3306283951
+Distance between 21-54: 4.42404747009
+
+server08_TS1:
+
+Distance between 4-21: 23.1079998016
+Distance between 21-54: 17.5008029938
+
+server09_TS1:
+
+Distance between 4-21: 18.1658439636
+Distance between 21-54: 22.4701023102
+
+server10_TS1:
+
+Distance between 4-21: 3.92865490913
+Distance between 21-54: 23.3522586823
+
+server11_TS1:
+
+Distance between 4-21: 7.56156158447
+Distance between 21-54: 25.0976676941
+
+server12_TS1:
+
+Distance between 4-21: 43.293056488
+Distance between 21-54: 47.6429710388
+
+server13_TS1:
+
+Distance between 4-21: 15.0736494064
+Distance between 21-54: 17.5392017365
+
+server14_TS1:
+
+Distance between 4-21: 14.6370887756
+Distance between 21-54: 23.7163124084
+
+server15_TS1:
+
+Distance between 4-21: 25.4589538574
+Distance between 21-54: 6.4876241684
+
+server16_TS1:
+
+Distance between 4-21: 34.8188934326
+Distance between 21-54: 67.5490493774
+
+server17_TS1:
+
+Distance between 4-21: 18.0109844208
+Distance between 21-54: 18.4978485107
+
+server18_TS1:
+
+Distance between 4-21: 22.9943237305
+Distance between 21-54: 24.2056369781
+
+server19_TS1:
+
+Distance between 4-21: 28.5457134247
+Distance between 21-54: 28.4692249298
+
+server20_TS1:
+
+Distance between 4-21: 8.0313873291
+Distance between 21-54: 17.4187889099
+
+2GMQ:
+
+Distance between 12-29: 34.7819747925
+Distance between 29-70: 24.774017334

@@ -1,0 +1,126 @@
+
+server01_TS1:
+
+Distance between 11-16: 8.7836151123
+Distance between 16-20: 13.1711368561
+Distance between 20-35: 19.7621555328
+
+server02_TS1:
+
+Distance between 11-16: 8.46454811096
+Distance between 16-20: 13.3517169952
+Distance between 20-35: 29.5368156433
+
+server03_TS1:
+
+Distance between 11-16: 4.77171182632
+Distance between 16-20: 13.3277168274
+Distance between 20-35: 21.9047718048
+
+server04_TS1:
+
+Distance between 11-16: 9.39582443237
+Distance between 16-20: 8.51052093506
+Distance between 20-35: 40.7398605347
+
+server05_TS1:
+
+Distance between 11-16: 5.88712739944
+Distance between 16-20: 13.4448003769
+Distance between 20-35: 24.6029109955
+
+server06_TS1:
+
+Distance between 11-16: 11.8067188263
+Distance between 16-20: 13.2629451752
+Distance between 20-35: 15.6973934174
+
+server07_TS1:
+
+Distance between 11-16: 8.92422008514
+Distance between 16-20: 11.6683282852
+Distance between 20-35: 14.1670665741
+
+server08_TS1:
+
+Distance between 11-16: 12.4119853973
+Distance between 16-20: 10.0502605438
+Distance between 20-35: 16.0760536194
+
+server09_TS1:
+
+Distance between 11-16: 11.4183425903
+Distance between 16-20: 12.129119873
+Distance between 20-35: 20.2910461426
+
+server10_TS1:
+
+Distance between 11-16: 9.23192119598
+Distance between 16-20: 11.0989112854
+Distance between 20-35: 18.3716087341
+
+server11_TS1:
+
+Distance between 11-16: 6.66185903549
+Distance between 16-20: 13.0980920792
+Distance between 20-35: 22.9783535004
+
+server12_TS1:
+
+Distance between 11-16: 15.2322769165
+Distance between 16-20: 12.5635976791
+Distance between 20-35: 40.826374054
+
+server13_TS1:
+
+Distance between 11-16: 5.24289417267
+Distance between 16-20: 3.82577204704
+Distance between 20-35: 10.9540996552
+
+server14_TS1:
+
+Distance between 11-16: 8.50354671478
+Distance between 16-20: 12.8688211441
+Distance between 20-35: 19.56757164
+
+server15_TS1:
+
+Distance between 11-16: 10.0791273117
+Distance between 16-20: 12.3244791031
+Distance between 20-35: 20.4374256134
+
+server16_TS1:
+
+Distance between 11-16: 6.26023864746
+Distance between 16-20: 10.993730545
+Distance between 20-35: 40.8900756836
+
+server17_TS1:
+
+Distance between 11-16: 4.79808425903
+Distance between 16-20: 5.52421236038
+Distance between 20-35: 8.93590164185
+
+server18_TS1:
+
+Distance between 11-16: 10.801782608
+Distance between 16-20: 12.7821712494
+Distance between 20-35: 11.1221284866
+
+server19_TS1:
+
+Distance between 11-16: 9.58905792236
+Distance between 16-20: 12.8561592102
+Distance between 20-35: 31.70287323
+
+server20_TS1:
+
+Distance between 11-16: 9.2954492569
+Distance between 16-20: 12.9732732773
+Distance between 20-35: 14.1551704407
+
+2VCY:
+
+Distance between 87-92: 28.009185791
+Distance between 92-96: 27.942440033
+Distance between 96-107: 32.1970214844

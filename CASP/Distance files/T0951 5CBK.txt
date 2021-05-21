@@ -1,0 +1,105 @@
+
+server01_TS1:
+
+Distance between 39-93: 25.1350479126
+Distance between 93-119: 6.12565946579
+
+server02_TS1:
+
+Distance between 39-93: 25.901014328
+Distance between 93-119: 6.26436328888
+
+server03_TS1:
+
+Distance between 39-93: 25.7337417603
+Distance between 93-119: 7.56844139099
+
+server04_TS1:
+
+Distance between 39-93: 24.2319583893
+Distance between 93-119: 5.86846256256
+
+server05_TS1:
+
+Distance between 39-93: 30.6163692474
+Distance between 93-119: 6.09166240692
+
+server06_TS1:
+
+Distance between 39-93: 20.7388591766
+Distance between 93-119: 5.52283239365
+
+server07_TS1:
+
+Distance between 39-93: 18.0817260742
+Distance between 93-119: 7.98589372635
+
+server08_TS1:
+
+Distance between 39-93: 18.8913478851
+Distance between 93-119: 5.16544961929
+
+server09_TS1:
+
+Distance between 39-93: 15.8143615723
+Distance between 93-119: 11.1256713867
+
+server10_TS1:
+
+Distance between 39-93: 23.6738491058
+Distance between 93-119: 10.8059358597
+
+server11_TS1:
+
+Distance between 39-93: 23.643945694
+Distance between 93-119: 9.58828735352
+
+server12_TS1:
+
+Distance between 39-93: 23.5732364655
+Distance between 93-119: 8.16733169556
+
+server13_TS1:
+
+Distance between 39-93: 22.2861652374
+Distance between 93-119: 9.00559139252
+
+server14_TS1:
+
+Distance between 39-93: 22.9009361267
+Distance between 93-119: 8.6102848053
+
+server15_TS1:
+
+Distance between 39-93: 26.9996814728
+Distance between 93-119: 12.2860507965
+
+server16_TS1:
+
+Distance between 39-93: 17.0438613892
+Distance between 93-119: 18.4124317169
+
+server17_TS1:
+
+Distance between 39-93: 21.5751934052
+Distance between 93-119: 12.1447000504
+
+server18_TS1:
+
+Distance between 39-93: 23.2105522156
+Distance between 93-119: 12.5011177063
+
+server19_TS1:
+
+Distance between 39-93: 23.8621501923
+Distance between 93-119: 10.5843801498
+
+server20_TS1:
+
+Distance between 39-93: 22.2614116669
+Distance between 93-119: 8.42070674896
+
+5CBK:
+
+Distance between 34-88: 23.2443904877
+Distance between 88-114: 7.76672935486

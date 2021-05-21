@@ -1,0 +1,84 @@
+
+server01_TS1:
+
+Distance between 36-58: 9.46658420563
+
+server02_TS1:
+
+Distance between 36-58: 11.5615634918
+
+server03_TS1:
+
+Distance between 36-58: 33.0201797485
+
+server04_TS1:
+
+Distance between 36-58: 24.9987564087
+
+server05_TS1:
+
+Distance between 36-58: 22.7804718018
+
+server06_TS1:
+
+Distance between 36-58: 43.4703941345
+
+server07_TS1:
+
+Distance between 36-58: 15.8340129852
+
+server08_TS1:
+
+Distance between 36-58: 16.248041153
+
+server09_TS1:
+
+Distance between 36-58: 30.0536899567
+
+server10_TS1:
+
+Distance between 36-58: 15.0103712082
+
+server11_TS1:
+
+Distance between 36-58: 17.2231864929
+
+server12_TS1:
+
+Distance between 36-58: 33.5963287354
+
+server13_TS1:
+
+Distance between 36-58: 30.8109970093
+
+server14_TS1:
+
+Distance between 36-58: 29.597990036
+
+server15_TS1:
+
+Distance between 36-58: 12.1157436371
+
+server16_TS1:
+
+Distance between 36-58: 12.4561157227
+
+server17_TS1:
+
+Distance between 36-58: 45.858291626
+
+server18_TS1:
+
+Distance between 36-58: 42.1783790588
+
+server19_TS1:
+
+Distance between 36-58: 26.8293132782
+
+server20_TS1:
+
+Distance between 36-58: 12.2903823853
+
+1SQB:
+
+Distance between 169-193: 69.4287872314

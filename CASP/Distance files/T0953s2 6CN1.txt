@@ -1,0 +1,126 @@
+
+server01_TS1:
+
+Distance between 53-71: 24.832326889
+Distance between 71-117: 20.3029403687
+Distance between 117-119: 7.23140621185
+
+server02_TS1:
+
+Distance between 53-71: 14.3097229004
+Distance between 71-117: 34.0608406067
+Distance between 117-119: 6.82025384903
+
+server03_TS1:
+
+Distance between 53-71: 26.9146251678
+Distance between 71-117: 53.9738349915
+Distance between 117-119: 5.39769124985
+
+server04_TS1:
+
+Distance between 53-71: 22.9216518402
+Distance between 71-117: 24.7995433807
+Distance between 117-119: 6.81498432159
+
+server05_TS1:
+
+Distance between 53-71: 5.71658706665
+Distance between 71-117: 20.4866256714
+Distance between 117-119: 6.37849903107
+
+server06_TS1:
+
+Distance between 53-71: 27.769826889
+Distance between 71-117: 37.589717865
+Distance between 117-119: 6.73563718796
+
+server07_TS1:
+
+Distance between 53-71: 25.4212322235
+Distance between 71-117: 23.2745761871
+Distance between 117-119: 7.2275633812
+
+server08_TS1:
+
+Distance between 53-71: 27.335641861
+Distance between 71-117: 83.1592712402
+Distance between 117-119: 6.56293725967
+
+server09_TS1:
+
+Distance between 53-71: 25.7712993622
+Distance between 71-117: 34.3112335205
+Distance between 117-119: 5.73488378525
+
+server10_TS1:
+
+Distance between 53-71: 8.89811515808
+Distance between 71-117: 18.3559608459
+Distance between 117-119: 4.65941381454
+
+server11_TS1:
+
+Distance between 53-71: 25.1189613342
+Distance between 71-117: 138.383148193
+Distance between 117-119: 6.91265678406
+
+server12_TS1:
+
+Distance between 53-71: 18.1160335541
+Distance between 71-117: 24.7919216156
+Distance between 117-119: 5.28708076477
+
+server13_TS1:
+
+Distance between 53-71: 30.3715076447
+Distance between 71-117: 85.0736236572
+Distance between 117-119: 6.81279802322
+
+server14_TS1:
+
+Distance between 53-71: 24.1717319489
+Distance between 71-117: 36.5008811951
+Distance between 117-119: 5.27499818802
+
+server15_TS1:
+
+Distance between 53-71: 27.8288898468
+Distance between 71-117: 31.664484024
+Distance between 117-119: 5.6753411293
+
+server16_TS1:
+
+Distance between 53-71: 17.1171855927
+Distance between 71-117: 23.6453819275
+Distance between 117-119: 6.01327991486
+
+server17_TS1:
+
+Distance between 53-71: 17.8729476929
+Distance between 71-117: 11.0813531876
+Distance between 117-119: 6.8778090477
+
+server18_TS1:
+
+Distance between 53-71: 37.3034591675
+Distance between 71-117: 25.5201702118
+Distance between 117-119: 5.33278036118
+
+server19_TS1:
+
+Distance between 53-71: 54.0726356506
+Distance between 71-117: 48.7473754883
+Distance between 117-119: 6.63221883774
+
+server20_TS1:
+
+Distance between 53-71: 23.9202861786
+Distance between 71-117: 55.8668479919
+Distance between 117-119: 6.81290340424
+
+6CN1:
+
+Distance between 276-292: 65.8699645996
+Distance between 292-325: 58.5376167297
+Distance between 325-327: 49.9021759033
