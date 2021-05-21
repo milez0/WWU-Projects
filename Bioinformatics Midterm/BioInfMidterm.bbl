@@ -1,0 +1,126 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{BLAST}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ASF}{%
+         family={Altschul},
+         familyi={A\bibinitperiod},
+         given={Stephen\bibnamedelima F.},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=GW}{%
+         family={Gish},
+         familyi={G\bibinitperiod},
+         given={Warren},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=MW}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Webb},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=MEW}{%
+         family={Myers},
+         familyi={M\bibinitperiod},
+         given={Eugene\bibnamedelima W.},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=LDJ}{%
+         family={Lipman},
+         familyi={L\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ASF+1}
+    \strng{fullhash}{ASFGWMWMEWLDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb https://doi.org/10.1016/S0022-2836(05)80360-2
+    \endverb
+    \field{issn}{0022-2836}
+    \field{number}{3}
+    \field{pages}{403 \bibrangedash  410}
+    \field{title}{Basic local alignment search tool}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0022283605803602
+    \endverb
+    \field{volume}{215}
+    \field{journaltitle}{Journal of Molecular Biology}
+    \field{year}{1990}
+  \endentry
+
+  \entry{SDM}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PAP}{%
+         family={Pandurangan},
+         familyi={P\bibinitperiod},
+         given={Arun\bibnamedelima Prasad},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=OMB}{%
+         family={Ochoa-Montaño},
+         familyi={O\bibinitperiod-M\bibinitperiod},
+         given={Bernardo},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ADB}{%
+         family={Ascher},
+         familyi={A\bibinitperiod},
+         given={David\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BTL}{%
+         family={Blundell},
+         familyi={B\bibinitperiod},
+         given={Tom\bibnamedelima L.},
+         giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PAP+1}
+    \strng{fullhash}{PAPOMBADBBTL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1093/nar/gkx439
+    \endverb
+    \verb{eprint}
+    \verb /oup/backfile/content_public/journal/nar/45/w1/10.1093_nar_gkx439/5/g
+    \verb kx439.pdf
+    \endverb
+    \field{number}{W1}
+    \field{pages}{W229\bibrangedash W235}
+    \field{title}{SDM: a server for predicting effects of mutations on protein
+  stability}
+    \verb{url}
+    \verb http://dx.doi.org/10.1093/nar/gkx439
+    \endverb
+    \field{volume}{45}
+    \field{journaltitle}{Nucleic Acids Research}
+    \field{year}{2017}
+  \endentry
+\enddatalist
+\endinput
